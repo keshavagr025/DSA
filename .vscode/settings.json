@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "*.ejs": "html",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "utility": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "new": "cpp",
+        "string": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp",
+        "valarray": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
